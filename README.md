@@ -15,7 +15,7 @@ npm install
 ```
 ### 4. Run
 ```
-npm run
+npm run dev
 ```
 ### 5. Installation React-Router(Library)
 You can start with a React template from Vite and choose "React", otherwise bootstrap your application however you prefer.
